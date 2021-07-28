@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+   
+}
+h1{
+    font-size: 3em ;
+}
+h4{
+    font-weight: 500;
+}
+.h1Span{
+    color:rgb(8, 145, 199)
+
+}
+section{
+    display: flex;
+}
+.half_width{
+    width : 50% ;
+    padding : 1%;
+}
+.half_width img{
+    width: 85% ;
+}
+
+.order_food_button{
+    text-decoration: none;
+    background-image: linear-gradient(#4fc5f3, #1c88b3);
+    padding: 10px;
+    font-weight: 700;
+    border-radius: 15px;
+    color: whitesmoke;
+}
